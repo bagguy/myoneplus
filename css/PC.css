@@ -1,0 +1,1168 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.top-container{
+    z-index: 1;
+    height: 60px;
+    background-color: white;
+   
+}
+.oneplus-logo{
+    width: 60px;
+    height: 60px;
+    background-color: transparent;
+    margin: 0px 30px;
+    
+}
+.yijia{
+    width: 40px;
+    height: 41px;
+    font-size:32px;
+    color:red;
+    display: inline-block;
+    margin: 10px 12px;
+   
+}
+.nav-box{
+    position: absolute;
+    top: 20px;
+    left: 280px;
+    z-index: 1;
+} 
+.float{
+    float: left;
+    padding: 0px 21px;
+    font-size: 14px;
+    position: relative;
+    top: -20px;
+    line-height: 60px;
+    
+}
+.float:hover{
+    border-bottom: 2px solid red;
+    display: block;
+    float: left;
+}
+
+.nav{
+    display: inline-block;
+    list-style: none;
+} 
+.nav-content{
+    width: 28px;
+    height: 60px;
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+}
+.OnePlus7Pro
+{
+    width: 95px;
+    margin-right: -5px; 
+} 
+.OnePlus7{
+    width: 85px; 
+    margin-right: -10px; 
+}
+.lingshou{
+    width: 42px; 
+}
+.float-right{
+    float: left;
+    z-index: 1;
+}
+.float-right:hover{
+    border-bottom: 2px solid red;
+    display: block;
+    float: left;
+}
+
+.user{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    right: 150px;
+    background-color: transparent;
+}
+.yonghu{
+    width: 40px;
+    height: 41px;
+    font-size:20px;
+    color:black;
+    display: inline-block;
+    line-height:41px;
+    margin: 10px 20px;
+    padding: 0px;
+}
+.shoppingbag{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    right: 90px;
+    background-color: transparent;
+}
+.bag{
+    width: 40px;
+    height: 41px;
+    font-size:20px;
+    color:black;
+    display: inline-block;
+    line-height:41px;
+    margin: 10px 20px;
+    padding: 0px;
+}
+.serch{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    background-color: transparent;
+}
+.sousuo{
+    width: 40px;
+    height: 41px;
+    font-size:20px;
+    color:black;
+    display: inline-block;
+    line-height:41px;
+    margin: 10px 20px;
+    padding: 0px;
+}
+.incont{
+    width: 40px;
+    height: 41px;
+    display: inline-block;
+}
+.xuangou-box{
+    position: absolute;
+    top: 62px;
+    left: -529px;
+    width: 1280px;
+    height: 140px;
+    background-color: white;
+    margin: 0px;
+   display: none;
+}
+.xuangou:hover .xuangou-box{
+    
+    display: block;
+}
+.shouji-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 175px;
+}
+.erji-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 0px;
+}
+.kemo-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 0px;
+}
+.shujuxian-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 0px;
+}
+.taozhuang-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 0px;
+}
+.shenghuoguan-box{
+    width: 150px;
+    height: 140px;
+    text-decoration: none;
+    background-color: white;
+    float: left;
+    margin-left: 0px;
+}
+.shouji{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+.erji{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+.kemo{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+.shujuxian{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+.taozhuang{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+.shenghuoguan{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    line-height: 100px;
+    margin-left:52px; 
+}
+p{
+    margin-left:58px; 
+    line-height: 5px;
+}
+.p4{
+    margin-left:28px;
+}
+.p6{
+    margin-left:50px;
+}
+.mulu-box:hover {
+    color: red;
+
+}
+
+
+.right-mean{
+    list-style: none;
+    z-index: 1;
+}
+.user-box{
+    position: absolute;
+    top: 62px;
+    left: -200px;
+    width: 320px;
+    height: 276px;
+    padding: 5px 0px;
+    box-sizing: border-box;
+    background-color: white;
+    margin: 0px;
+    display: none;
+   
+}
+.user-list{
+    list-style: none;
+}
+.user:hover .user-box{
+    display:block;
+} 
+.list-box{
+    font-size: 14px;
+    color: #6E7073;
+    text-decoration: none;
+}
+hr{
+    width: 285px;
+    margin: 15px -1px;
+    border: 1px solid #CFD6DC;
+}
+.list{
+    width: 320px;
+    height: 50px;
+    padding: 0;
+    margin: 15px 15px;
+}
+
+.list:hover{
+    color: black;
+}
+.list4{
+    width: 280px;
+    height: 50px;
+    color: blue;
+    padding: 0px;
+    margin: 20px 15px;
+}
+.list4:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.shoppingbag-box{
+    position: absolute;
+    top: 62px;
+    left: -256px;
+    width: 385px;
+    height: 188px;
+    padding: 5px 0px;
+    box-sizing: border-box;
+    background-color: white;
+    margin: 0px;
+    display: none;
+}
+.no-goods{
+    position: relative;
+    top: 65px;
+    left: 65px;
+    color: #CFD6DC;
+
+}
+.line2{
+    position: relative;
+    top: 80px;
+    left: 1px;
+    width: 383px;
+    border: 1px solid #CFD6DC;
+}.go-shopping{
+    width: 345px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    position: relative;
+    top: 80px;
+    left: 20px;
+    line-height: 50px;
+}
+.go-shopping:hover{
+    background-color: #B8001F;
+}
+.shoppingbag:hover .shoppingbag-box{
+    display: block;
+}
+
+.top2-container{
+    width:2236px;
+    height: 300px;
+    cursor: pointer;
+}
+.robert-box{
+    width:2236px;
+    height: 300px;
+    background-size: cover;
+    position: absolute;
+    left: -630px;
+    margin:0px;
+    background-image: url("https://image01.oneplus.cn/shop/201906/27/1403/151bfc961009e115533581b61e147884.jpg");
+    background-size: 114%;
+    background-position: 5px 0px;
+}
+
+
+h2{
+    width: 218px;
+    position: absolute;
+    left: 765px;
+    top: 70px;
+    color: white;
+}
+.welcome{
+    font-size: 16px;
+    width: 218px;
+    position: absolute;
+    left: 765px;
+    top: 123px;
+    color: white;
+}
+.to-know{
+    width: 67px;
+    text-decoration: none;
+    position: absolute;
+    left: 135px;
+    top: 275px;
+    color: white;
+    font-size: 14px;
+}
+.to-know:hover{
+    text-decoration: underline;
+}
+.inner1-container{
+    position: relative;
+    top:5px;
+    height: 680px;
+    background-color:white;
+}
+.Op7pro-box{
+    background-size: cover;
+    position: absolute;
+    top: 5px;
+    left: -630px;
+    margin: 0px;
+    display: none;
+}
+.one{
+    width: 228px;
+    position: absolute;
+    left: 765px;
+    top: 230px;
+    color: black;
+}
+.new-century{
+    width: 228px;
+    font-size: 18px;
+    position: absolute;
+    left: 710px;
+    top: 285px;
+    color: black;
+}
+.price1{
+    width: 228px;
+    font-size: 16px;
+    position: absolute;
+    left: 708px;
+    top: 325px;
+    color: black;
+}
+.buy-now{
+    width: 156px;
+    height: 48px;
+    line-height: 48px;
+    text-decoration: none;
+    border: 1px solid black;
+    position: absolute;
+    left: 136px;
+    top: 380px;
+    color: black;
+    display: none;
+}
+.buy-now:hover{
+    background-color: black;
+    color: white;
+}
+.knowmore{
+    line-height: 48px;
+    text-decoration: none;
+    position: absolute;
+    left: 136px;
+    top: 425px;
+    color: black;
+    display: none;
+}
+.knowmore:hover{
+    text-decoration: underline;
+}
+.inner1-container:hover .Op7pro-box{
+    display: block;
+}
+.inner1-container:hover .buy-now{
+    display: block;
+}
+.inner1-container:hover .knowmore{
+    display: block;
+}
+.inner2-container{
+    position: relative;
+    top: -15px;
+    height: 690px;
+    background-color: white;
+}
+.OnePlus7-box{
+    background-size: cover;
+    position: absolute;
+    top: 5px;
+    left: -630px;
+    margin: 0px; 
+    display: none;
+}
+.two{
+    width: 228px;
+    position: absolute;
+    left: 765px;
+    top: 230px;
+    color: white;
+}
+.jinxing{
+    width: 228px;
+    font-size: 18px;
+    position: absolute;
+    left: 710px;
+    top: 285px;
+    color: white;
+}
+.price2{
+    width: 228px;
+    font-size: 16px;
+    position: absolute;
+    left: 708px;
+    top: 325px;
+    color: white;
+}
+.buy-now2{
+    width: 156px;
+    height: 48px;
+    line-height: 48px;
+    text-decoration: none;
+    border: 1px solid white;
+    position: absolute;
+    left: 136px;
+    top: 385px;
+    color: white;
+    display: none;
+}
+.knowmore2{
+    line-height: 48px;
+    text-decoration: none;
+    position: absolute;
+    left: 136px;
+    top: 430px;
+    color: white;
+    display: none;
+}
+.buy-now2:hover{
+    background-color: white;
+    color: black;
+}
+.knowmore2:hover{
+    text-decoration: underline;
+}
+.inner2-container:hover .OnePlus7-box{
+    display: block;
+}
+.inner2-container:hover .buy-now2{
+    display: block;
+}
+.inner2-container:hover .knowmore2{
+    display: block;
+}
+.inner3-container{
+    position: relative;
+    top: -15px;
+    height: 1050px;
+    background-color: white;
+}
+.left1-box{
+    box-sizing: border-box;
+    width: 616px;
+    height: 475px;;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    background-color: white;
+    background-image: url("https://image01.oneplus.cn/shop/201907/24/1132/893c78384704699fe8c0585b48041000.png");
+    background-position: -1085px 0px;
+    background-size: 150%;
+    overflow: hidden;
+}
+.left-img {
+    transition: all 1s;
+}
+
+.left-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.gameseason{
+    position: absolute;
+    top: 25px;
+    left: 155px;
+    color: white;
+    font-size: 24px;
+}
+.join-activity{
+    position: absolute;
+    top: 60px;
+    left: 265px;
+    color: white;
+    font-size: 18px;
+}
+.right1-box{
+    box-sizing: border-box;
+    width: 616px;
+    height: 475px;;
+    position: absolute;
+    top: 5px;
+    left: 635px;
+    background-color: white;
+    background-image: url("https://image01.oneplus.net/shop/201906/11/701/1a2d6948df8636132655014e4a8bede7.jpg");
+    background-position: -1085px 0px;
+    background-size: 150%;
+}
+.change-new{
+    position: absolute;
+    top: 25px;
+    left: 225px;
+    color: black;
+    font-size: 24px;
+}
+.butie500yuan{
+    position: absolute;
+    top: 60px;
+    left: 205px;
+    color: black;
+    font-size: 18px;
+}
+.left2-box{
+    box-sizing: border-box;
+    width: 616px;
+    height: 475px;;
+    position: absolute;
+    top: 490px;
+    left: 10px;
+    background-color: white;
+    background-image: url("https://image01.oneplus.cn/shop/201907/08/1972/abc4760698aa0acb4bf49ba986fba603.jpg");
+    background-position: -1555px 0px;
+    background-size: 200%;
+}
+.huorego{
+    position: absolute;
+    top: 25px;
+    left: 155px;
+    color: black;
+    font-size: 24px;
+}
+.compete-now{
+    position: absolute;
+    top: 60px;
+    left: 265px;
+    color: black;
+    font-size: 18px;
+}
+.right2-box{
+    box-sizing: border-box;
+    width: 616px;
+    height: 475px;;
+    position: absolute;
+    top: 490px;
+    left: 635px;
+    background-color: white;
+    background-image: url("https://image01.oneplus.cn/shop/201906/20/471/e467eee7fb7a2e4a53c3130835178463.jpg");
+    background-position: -1555px 0px;
+    background-size: 200%;
+}
+.experience-buy{
+    position: absolute;
+    top: 25px;
+    left: 195px;
+    color: black;
+    font-size: 24px;
+}
+.know-more{
+    position: absolute;
+    top: 60px;
+    left: 265px;
+    color: black;
+    font-size: 18px;
+}
+.bottom1-container{
+    position: relative;
+    top: -350px;
+  
+}
+.bottom1-img{
+    background-size: cover;
+    width: 1263px;
+    height: 560px;
+    position: absolute;
+    top: 260px;
+    left: 0px;
+}
+.shot{
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    top: 500px;
+    left: 375px;
+}
+.join{
+    width: 134px;
+    height: 44px;
+    line-height: 44px;
+    text-decoration: none;
+    border: 2px solid white;
+    position: absolute;
+    left: 553px;
+    top: 550px;
+    color: white;
+}
+.join:hover{
+    background-color: white;
+    color: black;
+}
+.bottom2-container{
+    width: 1263px;
+    height: 495px;
+    background-color: #F6F6F6;
+    position: relative;
+    top: 480px;
+    left: 0px;
+    border-bottom: 1px solid #E4E4E4;
+}
+.bottom2-left{
+    position: absolute;
+    top: 75px;
+    left: 20px;
+   
+}
+.bottom2-left:hover{
+    box-shadow: 0px 0px 10px 0px #ccc;
+}
+.report{
+    position: absolute;
+    top: 335px;
+    left: -40px;
+    font-size: 18px;
+    color: #898A89;
+}
+.di4ming{
+    position: absolute;
+    top: 380px;
+    left: -40px;
+    font-size: 18px;
+    color: black;
+}
+.liaojiemore1{
+    position: absolute;
+    top: 415px;
+    left: 20px;
+    font-size: 16px;
+    color: #0099CC;
+    text-decoration: none;
+}
+.bottom2-inner{
+    position: absolute;
+    top: 75px;
+    left: 440px;
+}
+.bottom2-inner:hover{
+    box-shadow: 0px 0px 10px 0px #ccc;
+}
+.qingtan{
+    position: absolute;
+    top: 335px;
+    left: 380px;
+    font-size: 18px;
+    color: #898A89;
+}
+.qianshijinsheng{
+    position: absolute;
+    top: 380px;
+    left: 380px;
+    font-size: 18px;
+    color: black;
+}
+.liaojiemore2{
+    position: absolute;
+    top: 415px;
+    left: 440px;
+    font-size: 16px;
+    color: #0099CC;
+    text-decoration: none;
+}
+.bottom2-right{
+    position: absolute;
+    top: 75px;
+    left: 860px;
+}
+.bottom2-right:hover{
+    box-shadow: 0px 0px 10px 0px #ccc;
+}
+.pingjia{
+    position: absolute;
+    top: 335px;
+    left: 800px;
+    font-size: 18px;
+    color: #898A89;
+}
+.quanweimeiti{
+    position: absolute;
+    top: 380px;
+    left: 800px;
+    font-size: 18px;
+    color: black;
+}
+.liaojiemore3{
+    position: absolute;
+    top: 415px;
+    left: 860px;
+    font-size: 16px;
+    color: #0099CC;
+    text-decoration: none;
+}
+.shouhou-box{
+    background-color: white;
+    height: 197px;
+    position: relative;
+    top: 481px;
+    border-bottom: 1px solid #E4E4E4;
+}
+.bottom-servece{
+    position: relative;
+    top: 50px;
+    left: 40px;
+    list-style: none;
+    
+}
+.bottom-float{
+    float: left;
+    
+}
+.servrce{
+    position: relative;
+    display: block;
+    width: 296px;
+    height: 125px;
+    background-color: white;
+    text-decoration: none;
+    color: #565b62;
+}
+.return-jinglingtu{
+    position: absolute;
+    left: 108px;
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons-sd81bbaa639.png");
+    background-position: 80px 200px;
+}
+.return{
+    position: absolute;
+    top: 85px;
+    left: 95px;
+}
+.baozhang-jinglingtu{
+    position: absolute;
+    left: 108px;
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons-sd81bbaa639.png");
+    background-position: -85px 0px;
+}
+.baozhang{
+    position: absolute;
+    top: 85px;
+    left: 95px;
+}
+.huanhuo-jinglingtu{
+    position: absolute;
+    left: 108px;
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons-sd81bbaa639.png");
+    background-position: -160px -235px;
+}
+.huanhuo{
+    position: absolute;
+    top: 85px;
+    left: 95px;
+}
+.baoyou-jinglingtu{
+    position: absolute;
+    left: 108px;
+    width: 80px;
+    height: 80px;
+    background-size: 100%;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons-sd81bbaa639.png");
+    background-position: -240px -556px;
+}
+.baoyou{
+    position: absolute;
+    top: 85px;
+    left: 95px;
+}
+.foot-box{
+    height:545px;
+    background-color: transparent;
+    position: relative;
+    top: 481px;
+}
+.biaoge1{
+    position: absolute;
+    top: 55px;
+    left: 50px;
+}
+.liebiao{
+    list-style: none;
+}
+.biaoge-content{
+    position: absolute;
+    top: 40px;
+    left: 0px;
+}
+.liebiao-content{
+    display: block;
+    text-decoration: none;
+    width: 197px;
+    height: 23px;
+    font-size: 14px;
+    padding: 8px 0px;
+    color: #828282;
+}
+.biaoge2{
+    position: absolute;
+    top: 55px;
+    left: 295px;
+}
+.biaoge3{
+    position: absolute;
+    top: 55px;
+    left: 530px;
+}
+.biaoge4{
+    position: absolute;
+    top: 55px;
+    left: 765px;
+}
+.liebiao-content:hover{
+    color: black;
+}
+.contact-box{
+    width: 237px;
+    height: 159px;
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    right: 45px;
+    margin: 10px 0px 0px 0px;
+}
+.tel{
+    display: block;
+    position: absolute;
+    right: 0px;
+    text-decoration: none;
+    color: #0099cc;
+}
+.tel:hover{
+    color: black;
+}
+.online-Guesttaking{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 125px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0px 17px;
+    font-size: 17px;
+    margin: 15px 0px 15px 117px;
+    position: absolute;
+    top: 25px;
+    right: 0px;
+    text-decoration: none;
+    color: black;
+}
+.online-Guesttaking:hover{
+    background-color: black;
+    color: white;
+}
+.contact-time{
+    position: absolute;
+    top: 100px;
+    right: 0px;
+    font-size: 12px;
+    color: #999;
+}
+.weixin{
+    position: absolute;
+    top: 120px;
+    right: 55px;
+    color: #87DF48;
+}
+.weibo{
+    position: absolute;
+    top: 120px;
+    right: 15px;
+    color: #E6162D;
+}
+.erweima{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 3px;
+    right: 0px;
+    display: none;
+}
+.weixin:hover~.erweima{
+    display: block;
+}
+.china{
+    width: 189px;
+    height: 50px;
+    position: absolute;
+    top: 295px;
+    left: -900px;
+    color: black;
+}
+.zhongguo{
+    display: block;
+    width: 21px;
+    height: 14px;
+    background-image: url("http://www.gov.cn/test/images/001aa04acfdf0e0bfb6401.gif");
+    background-size: 100%;
+    position: absolute;
+    top: 300px;
+    left: -931px;
+}
+.xuangou-method{
+    font-size: 12px;
+    width: 595px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    top: 290px;
+    right: 0px;
+}
+.moor-method{
+    width: 144px;
+    height: 23px;
+    position: absolute;
+    top: 10px;
+    right: 110px;
+    line-height: 23px;
+}
+.lookfor-lingshoudian{
+    position: absolute;
+    top: 14px;
+    right: 95px;
+    text-decoration: none;
+    color: #0099CC;
+}
+.or{
+    position: absolute;
+    top: 14px;
+    right: 79px;
+}
+.servece-center{
+    position: absolute;
+    top: 14px;
+    right: 2px;
+    text-decoration: none;
+    color: #0099CC;
+}
+.foot-bottom{
+    position: absolute;
+    top: 375px;
+    left: 45px;
+    width: 1175px;
+    height: 164px;
+    background-color: transparent;
+    border-top: 1px solid #E2E2E2;
+}
+.nianfen{
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    font-size: 12px;
+    color: #999;
+}
+.beian-box{
+    width: 348px;
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    top: 90px;
+    left: -55px;
+    font-size: 12px;
+    color: #999;
+}
+.yuegongwang{
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+.bottom-right{
+    width: 717px;
+    height: 80px;
+    background-color: transparent;
+    position: absolute;
+    top: 20px;
+    right: -35px;
+}
+.privercy-polity{
+    list-style:none;
+    position: absolute;
+    top: 10px;
+    left: 232px;
+    
+}
+.bottom-list1{
+    display: block;
+    line-height: 12px;
+    padding: 0px 10px 0px 10px;
+    width: 69px;
+    float: left;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: black;
+    border-right: 1px solid rgba(0,0,0,.1);
+}
+.bottom-list2{
+    display: block;
+    line-height: 12px;
+    padding: 0px 10px 0px 10px;
+    width: 72px;
+    float: left;
+    font-size: 12px;
+    color: black;
+    border-right: 1px solid rgba(0,0,0,.1);
+}
+.bottom-list3{
+    display: block;
+    line-height: 12px;
+    padding: 0px 10px 0px 10px;
+    width: 72px;
+    float: left;
+    font-size: 12px;
+    color: black;
+}
+.yingyezhizhao-box{
+    width: 687px;
+    height: 30px;
+    background-color: transparent;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.yingyezhizhao{
+    width: 83px;
+    height: 30px;
+    position: absolute;
+    right: 135px;
+}
+.kexinwangzhan{
+    width: 83px;
+    height: 30px;
+    position: absolute;
+    right: 35px;
+}
+
+    
+    
+
+
+
+

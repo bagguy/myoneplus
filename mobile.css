@@ -1,0 +1,825 @@
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+.container {
+    height: 6250px;
+    width: 100%;
+    background-color: white;
+}
+.nav{
+    position: relative;
+    top: 0px;
+    width: 376px;
+    height: 50px;
+    background-color: white;
+    width: 100vw;
+}
+.show-mean-box{
+    position: absolute;
+    top: -42px;
+    left: 15px;
+}
+.show-mean{
+    width: 5px;
+    height: 5px;
+    font-size: 50px;
+    color: #9E9E9E;
+}
+.yijia{
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: 160px;
+    font-size: 35px;
+    color: red;
+}
+.bag{
+    display: block;
+    position: absolute;
+    top: 8px;
+    left: 326px;
+    font-size: 30px;
+}
+.robert-box{
+    width: 100vw;
+    height: 350px;
+    background-color: coral;
+    background-image: url("https://image01.oneplus.cn/shop/201906/27/357/ebc56544b83c55969d7c5af5a0fcc263.jpg");
+    background-size: cover;
+}
+.text-robert-box{
+    position: relative;
+    height: 133.5px;
+    background-color: transparent;
+}
+.never-forgive{
+    font-size: 20px;
+    color: #fff;
+    margin: 10px 0px 0px;
+    position: absolute;
+    left: 80px;
+}
+.welcome-robert{
+    font-size: 16px;
+    color: #fff;
+    margin: 10px 0px 0px;
+    padding: 0px 20px;
+    position: absolute;
+    top: 40px;
+    left: 85px;
+}
+.go-to-know{
+    height: 23.33px;
+    font-size: 14px;
+    color: #fff;
+    position: absolute;
+    top: 105px;
+    left: 155px;
+    text-decoration: none;
+}
+.inner1-box{
+    width: 100vw;
+    margin-top: 10px;
+    height: 600px;
+    background-image: url("https://image01.oneplus.cn/shop/201906/13/1674/450a7a73fe18c049a9c2713b6d8cd0ac.jpg");
+    background-size: cover;
+    background-position: -170px 0px;
+    padding: 0px;
+}
+.text1-box{
+    height: 200px;
+    background-color: transparent;
+}
+.OnePlus-7-Pro{
+    font-size: 28px;
+    color: black;
+    position: absolute;
+    top: 420px;
+    left: 85px;
+    
+}
+.new-century{
+    font-size: 24px;
+    color: black;
+    position: absolute;
+    top: 460px;
+    left: 95px;
+}
+.price1{
+    font-size: 18px;
+    color: black;
+    position: absolute;
+    top: 490px;
+    left: 135px;
+}
+.buy-now-box1{
+    width: 142px;
+    height: 40px;
+    border: 1px solid black;
+    position: absolute;
+    top: 535px;
+    left: 108px;
+}
+.buy-now1{
+    color: #101920;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 40px;
+}
+.know-more1{
+    color: black;
+    font-size: 14px;
+    position: absolute;
+    top: 585px;
+    left: 150px;
+}
+.inner2-box{
+    width: 100vw;
+    margin-top: 10px;
+    height: 600px;
+    background-image: url("https://image01.oneplus.cn/shop/201905/16/563/11d32002899d52b81e4fc9992ab5cac5.jpg");
+    background-size: cover;
+    background-position: -170px 0px;
+    padding: 0px;
+}
+.text2-box{
+    height: 200px;
+    background-color: transparent;
+}
+.OnePlus-7{
+    font-size: 28px;
+    color: white;
+    position: absolute;
+    top: 1050px;
+    left: 130px;
+    
+}
+.more-happy{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 1090px;
+    left: 140px;
+}
+.price2{
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 1125px;
+    left: 160px;
+}
+.buy-now-box2{
+    width: 142px;
+    height: 40px;
+    border: 1px solid white;
+    position: absolute;
+    top: 1170px;
+    left: 130px;
+}
+.buy-now2{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 40px;
+}
+.know-more2{
+    color: white;
+    font-size: 14px;
+    position: absolute;
+    top: 1225px;
+    left: 172px;
+}
+.inner3-box{
+    margin-top: 10px;
+    height: 500px;
+    width: 100vw;
+}
+.inner3-img{
+    height: 500px;
+    background-image: url("https://image01.oneplus.cn/shop/201907/24/592/b600d7f52221f74798292e44c746f218.png");
+    background-size: cover;
+    background-position: -240px 0px;
+}
+.text3-box{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 1660px;
+    left: 70px;
+}
+.join-activity{
+    font-size: 18px;
+    color: white;
+    position: absolute;
+    top: 1690px;
+    left: 155px;
+}
+.inner3-img {
+    transition: all 1s;
+}
+.inner3-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.inner4-box{
+    margin-top: 10px;
+    height: 500px;
+    width: 100vw;
+}
+.inner4-img{
+    height: 500px;
+    background-image: url("https://image01.oneplus.net/shop/201906/11/701/1a2d6948df8636132655014e4a8bede7.jpg");
+    background-size: cover;
+    background-position: -300px 0px;
+}
+.text4-box{
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 2170px;
+    left: 120px;
+}
+.butie{
+    font-size: 18px;
+    color: black;
+    position: absolute;
+    top: 2200px;
+    left: 90px;
+}
+.inner4-img {
+    transition: all 1s;
+}
+.inner4-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.inner5-box{
+    margin-top: 10px;
+    height: 500px;
+    width: 100vw;
+}
+.inner5-img{
+    height: 500px;
+    background-image: url("https://image01.oneplus.net/shop/201906/11/103/8537c18dd83b9dbb35e346163e880860.jpg");
+    background-size: cover;
+    background-position: -300px 0px;
+}
+.text5-box{
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 2685px;
+    left: 95px;
+}
+.know-more3{
+    font-size: 18px;
+    color: black;
+    position: absolute;
+    top: 2720px;
+    left: 150px;
+}
+.inner5-img {
+    transition: all 1s;
+}
+.inner5-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.inner6-box{
+    margin-top: 10px;
+    height: 500px;
+    width: 100vw;
+}
+.inner6-img{
+    height: 500px;
+    background-image: url("https://image01.oneplus.cn/shop/201906/20/1808/4d60d72f6d9b6b6d430e57bf7e31d395.jpg");
+    background-size: cover;
+    background-position: -240px 0px;
+}
+.text6-box{
+    font-size: 20px;
+    color: black;
+    position: absolute;
+    top: 3190px;
+    left: 95px;
+}
+.know-more4{
+    font-size: 18px;
+    color: black;
+    position: absolute;
+    top: 3225px;
+    left: 140px;
+}
+.inner6-img {
+    transition: all 1s;
+}
+
+.inner6-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.bottom1-box{
+    height: 187.67px;
+    margin-top: 10px;
+    width: 100vw;
+}
+.bottom1-img{
+    height: 187.67px;
+    background-image: url("https://image01.oneplus.cn/shop/onedayonephoto/7a9e881d134590fb24bfa3d1c64254a5.jpg");
+    background-size: cover;
+}
+.shot{
+    height: 30.67px;
+    font-size: 26px;
+    color: white;
+    position: absolute;
+    top: 3735px;
+    left: 77px;
+}
+.will-jion{
+    width: 74px;
+    height: 28px;
+    color: white;
+    font-size: 12px;
+    border: 1px solid white;
+    position: absolute;
+    top: 3785px;
+    left: 145px;
+    line-height: 28px;
+}
+.bottom1-img {
+    transition: all 1s;
+}
+.bottom1-img:hover {
+    transform: scale(0.95, 0.95);
+}
+.bottom2-box{
+    width: 100vw;
+    position: relative;
+    margin-top: 10px;
+    height: 1162.28px;
+    padding: 22.4px 0px;
+    font-size: 16px;
+    background-color:white; 
+}
+
+.bottom2-img1{
+    display: block;
+    width: 295.33px;
+    height: 183.63px;
+    margin: 5px 45px;
+}
+.bottom2-text1{
+    width: 295.33px;
+    height: 110px;
+    background-color: transparent;
+    position: absolute;
+    top: 230px;
+    left: 45px;
+    font-size: 16px;
+}
+.the4th{
+    font-size: 18px;
+    margin: 5px 0px 0px;
+}
+.know-more5{
+    text-decoration: none;
+    color: #09c;
+    position: absolute;
+    top: 75px;
+}
+.bottom2-one:hover .bottom2-text1{
+    transform: scale(1.1, 1.1);
+    transition: all 1s;
+}
+.bottom2-img2{
+    display: block;
+    width: 295.33px;
+    height: 183.63px;
+    margin: 195px 45px;
+}
+.bottom2-text2{
+    width: 295.33px;
+    height: 110px;
+    background-color: transparent;
+    position: absolute;
+    top: 615px;
+    left: 45px;
+    font-size: 16px;
+}
+.qianshijinsheng{
+    font-size: 18px;
+    margin: 5px 0px 0px;
+}
+.know-more6{
+    text-decoration: none;
+    color: #09c;
+    position: absolute;
+    top: 100px;
+}
+.bottom2-two:hover .bottom2-text2{
+    transform: scale(1.1, 1.1);
+    transition: all 1s;
+}
+.bottom2-img3{
+    display: block;
+    width: 295.33px;
+    height: 183.63px;
+    margin: 225px 45px;
+}
+.bottom2-text3{
+    width: 295.33px;
+    height: 110px;
+    background-color: transparent;
+    position: absolute;
+    top: 1020px;
+    left: 45px;
+    font-size: 16px;
+}
+.quanwei-media{
+    font-size: 18px;
+    margin: 5px 0px 0px;
+}
+.know-more7{
+    text-decoration: none;
+    color: #09c;
+    position: absolute;
+    top: 100px;
+}
+.bottom2-three:hover .bottom2-text3{
+    transform: scale(1.1, 1.1);
+    transition: all 1s;
+}
+.bottom3-box{
+    width: 100vw;
+    width: 375.33px;
+    height: 333px;
+    background-color: white;
+}
+.shouhou-liebiao{
+    list-style: none;
+}
+.float{
+    float: left;
+    position: relative;
+}
+.shouhou-box1{
+    width: 175.67px;
+    height: 121px;
+    background-color: white;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    text-decoration: none;
+    color: #565b62;
+}
+.seven-days{
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    width: 80px;
+    height: 80px;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons@2x-sa9f58b327e.png");
+    background-position: 0px 1160px;
+    background-size: 100%;
+}
+.shouhou-content{
+    position: absolute;
+    top: 90px;
+    left: 35px;
+}
+.shouhou-box2{
+    width: 175.67px;
+    height: 121px;
+    background-color: white;
+    position: absolute;
+    top: 35px;
+    left: 187px;
+    text-decoration: none;
+    color: #565b62;
+}
+.fivetheen-days{
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    width: 80px;
+    height: 80px;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons@2x-sa9f58b327e.png");
+    background-position: 0px 960px;
+    background-size: 100%;
+}
+.shouhou-box3{
+    width: 175.67px;
+    height: 121px;
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    text-decoration: none;
+    color: #565b62;
+}
+.threetheen-days{
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    width: 80px;
+    height: 80px;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons@2x-sa9f58b327e.png");
+    background-position: 0px 800px;
+    background-size: 100%;
+}
+
+.shouhou-box4{
+    width: 175.67px;
+    height: 121px;
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 187px;
+    text-decoration: none;
+    color: #565b62;
+}
+.yuan99{
+    position: absolute;
+    top: 0px;
+    left: 45px;
+    width: 80px;
+    height: 80px;
+    background-image: url("https://statics.oneplus.cn/v2/img/common/serviceIcons@2x-sa9f58b327e.png");
+    background-position: 0px 1040px;
+    background-size: 100%;
+}
+.foot1-box{
+    width: 100vw;
+    position: relative;
+    width: 375.33px;
+    height: 242px;
+    background-color: white;
+}
+.foot1-biaoge{
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    width: 100vw;
+}
+hr{
+    width: 99.5vw;
+}
+dt{
+    width: 375.33px;
+    height: 51px;
+    line-height: 51px;
+    color: #828282;
+}
+.list-box{
+    
+    height: 210px;
+    padding: 0px 20px;
+    font-size: 14px;
+    background-color: white;
+    display: none;
+    position: relative;
+    z-index: 1;
+}
+.list{
+    list-style: none;
+}
+.list-content{
+    line-height: 45px;
+    display: block;
+    width: 295.33px;
+    height: 40px;
+    text-decoration: none;
+    color: #101920;
+}
+.yijia-goods:hover .list-box {
+    display: block;
+}
+.hot-activity:hover .list-box {
+    display: block;
+}
+.about-yijia:hover .list-box {
+    display: block;
+}
+.servece-surport:hover .list-box {
+    display: block;
+}
+.foot2-box{
+    width: 99.5vw;
+    border: 1px solid rgba(0,0,0,.1);
+    height: 50px;
+    background-color: white;
+}
+.china-img{
+    width: 18.6px;
+    height: 12.6px;
+    background-image: url("http://www.gov.cn/test/images/001aa04acfdf0e0bfb6401.gif");
+    background-size: cover;
+    margin: 3.2px 6px 0px 0px;
+    position: relative;
+    top: 15px;
+    left: 16px;
+}
+.china-text{
+    display: block;
+    position: relative;
+    top: -2px;
+    left: 50px;
+    font-size: 16px;
+    width: 300px;
+}
+.foot3-box{
+    width: 100vw;
+    height: 178px;
+    background-color: white;
+    position: relative;
+}
+.tel{
+    text-decoration: none;
+}
+.dianhua{
+    display: block;
+    margin: 0 120px;
+    padding-top: 20px;
+    color: #0099CC;
+}
+.onilne-servece{
+    border: 1px solid black;
+    width: 120px;
+    height: 40px;
+    margin: 15px 105px;
+    padding: 0px 17px;
+    text-align: center;
+    line-height: 40px;
+}
+.contact-time{
+    height: 18px;
+    background-color: white;
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+}
+.weixin{
+    display: block;
+    font-size: 20px;
+    position: absolute;
+    top: 140px;
+    left: 150px;
+    color: #87DF48;
+}
+.weibo{
+    display: block;
+    font-size: 20px;
+    position: absolute;
+    top: 140px;
+    left: 195px;
+    color: #E6162D;
+}
+.erweima{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    top: 3px;
+    right: 150px;
+    display: none;
+}
+.weixin:hover~.erweima{
+    display: block;
+}
+.foot4-box{
+    font-size: 12px;
+    height: 50px;
+    background-color: white;
+    position: relative;
+}
+.moor-method{
+    width: 144px;
+    height: 23px;
+    position: absolute;
+    top: 10px;
+    right: 165px;
+    line-height: 23px;
+}
+.lookfor-lingshoudian{
+    position: absolute;
+    top: 14px;
+    right: 150px;
+    text-decoration: none;
+    color: #0099CC;
+}
+.or{
+    position: absolute;
+    top: 14px;
+    right: 135px;
+}
+.servece-center{
+    position: absolute;
+    top: 14px;
+    right: 59px;
+    text-decoration: none;
+    color: #0099CC;
+}
+.foot5-box{
+    border-top: 1px solid rgba(0,0,0,.1);
+    position: relative;
+    height: 91px;
+    color: #666666;
+    margin: 0 0 10px;
+    padding: 0 75px;
+    font-size: 12px;
+}
+.privercy{
+    width: 225px;
+    height: 90px;
+    list-style: none;
+    position: absolute;
+    top: 20px;
+    text-align: center;
+}
+.foot5-liebiao{
+    margin-top: 10px;
+    padding: 0 10px;
+    float: left;
+}
+.foot5-liebiao1-2{
+    width: 50px;
+    height: 12px;
+    border-right: 1px solid rgba(0,0,0,.1);
+}
+.foot5-liebiao3{
+    width: 50px;
+    height: 12px;
+}
+.foot5-liebiao4-5{
+    width: 85px;
+    height: 12px;
+    border-right: 1px solid rgba(0,0,0,.1);
+}
+.foot5-liebiao6{
+    width: 69px;
+    height: 12px;
+    margin-left: 65px;
+}
+.foot5-float{
+    width: 48px;
+    height: 14.5px;
+    font-size: 12px;
+    color: #10181f;
+    text-decoration: none;
+}
+.foot6-box{
+    box-sizing: border-box;
+    width: 100vw;
+    position: relative;
+    height: 171px;
+    padding: 20px 0 30px;
+    background-color: white;
+    border-top: 1px solid #E2E2E2;
+}
+.beian-box{
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    top: 55px;
+    left: 32px;
+    font-size: 12px;
+    color: #999;
+}
+.yuegongwang{
+    position: absolute;
+    top: 85px;
+    left: 90px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+.yingyezhizhao-box{
+    height: 30px;
+    background-color: transparent;
+    position: absolute;
+    top: 60px;
+    left: 30px;
+}
+.yingyezhizhao{
+    width: 83px;
+    height: 30px;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+}
+.kexinwangzhan{
+    width: 83px;
+    height: 30px;
+    position: absolute;
+    top: 60px;
+    left: 175px;
+}
+.foot7-box{
+    height: 48px;
+    color: #999999;
+    background-color: #EFEFEF;
+}
+.nianfen{
+    display: block;
+    text-align: center;
+    line-height: 45px;
+    font-size: 12px;
+}
